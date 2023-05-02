@@ -1,0 +1,20 @@
+﻿* {
+  text-align: center;
+  font-family: 'Arial';
+}
+
+
+.text-subtitle {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.text-paragraph {
+  font-weight: 600;
+  
+}
+
+.text-link {
+  color: rgb(68, 197, 236);
+  cursor: pointer;
+}
