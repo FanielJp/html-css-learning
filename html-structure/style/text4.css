@@ -1,0 +1,23 @@
+﻿* {
+  margin: 0; 
+  padding: 0;
+  text-align: center; 
+  font-family: 'Montserrat';
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.subtitle {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 16px;
+
+}
+
+.link:hover {
+  text-decoration: underline;
+}

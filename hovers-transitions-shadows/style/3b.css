@@ -1,0 +1,28 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+}
+
+.add-to-cart {
+  margin: 8px;
+  padding: 8px 64px;
+  background-color: rgb(245, 200, 3);
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer; 
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  transition: background 0.15s;
+  -webkit-transition: background 0.15s;
+  -moz-transition: background 0.15s;
+  -ms-transition: background 0.15s;
+  -o-transition: background 0.15s;
+}
+
+.add-to-cart:hover {
+  background-color: rgb(255, 205, 3);
+}

@@ -1,0 +1,20 @@
+﻿ p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial;
+    text-align: center;
+  }
+  .text-paragraph1 {
+    margin-top: 22px;
+    margin-bottom: 22px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .text-paragraph2 {
+    margin-bottom: 22px;
+    font-weight: bold;
+  }
+
+  .text-link {
+    color: rgb(10, 137, 216);
+  }

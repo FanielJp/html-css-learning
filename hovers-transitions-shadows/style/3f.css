@@ -1,0 +1,73 @@
+﻿
+
+.link-to-back {
+ color: rgb(4, 150, 150);
+ font-size: 18px; 
+}
+
+.link-to-back:hover {
+  color: rgb(237, 141, 14);
+}
+
+.text-paragraph1 {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+
+.text-paragraph2 {
+  font-size: 22px;
+  margin-bottom: 24px;
+  font-weight: bold;
+  color: green; 
+}
+
+.text-paragraph3 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.add-to-cart {
+  background-color: rgb(255, 225, 0);
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 14px;
+  padding: 10px 36px;
+  border-radius: 25px;
+  transition: 0.15s;
+  cursor: pointer;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  -webkit-transition: 0.15s;
+  -moz-transition: 0.15s;
+  -ms-transition: 0.15s;
+  -o-transition: 0.15s;
+}
+
+.add-to-cart:active {
+  opacity: 0.5;
+}
+
+.buy-now {
+  background-color: rgb(254, 170, 3);
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 14px;
+  padding: 10px 36px;
+  border-radius: 25px;
+  cursor: pointer;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.buy-now:active {
+  opacity: 0.5;
+}
