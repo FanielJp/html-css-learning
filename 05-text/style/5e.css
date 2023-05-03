@@ -1,0 +1,41 @@
+﻿* {
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+}
+
+.new {
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.product {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.price {
+  margin-bottom: 25px;
+}
+
+.buy {
+  background-color: rgb(3, 152, 245);
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 7px 15px;
+  cursor: pointer;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
